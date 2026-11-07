@@ -5,4 +5,5 @@ A test list for Helm's one-click pull requests. Not a real list: PRs here are op
 ## Tools
 
 - [Alpha](https://example.com/alpha)
+- [SignupBouncer](https://signupbouncer.com)
 - [Zeta](https://example.com/zeta)
